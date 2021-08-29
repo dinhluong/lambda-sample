@@ -1,0 +1,7 @@
+{
+    "host": "****.ap-northeast-1.rds.amazonaws.com",
+    "port": 5432,
+    "dbname": "dbname",
+    "user": "postgres",
+    "password": "*****"
+}
